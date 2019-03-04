@@ -70,7 +70,7 @@ ITEM_PIPELINES = {
 }
 MYSQL_HOST = 'localhost'
 MYSQL_USER = 'root'
-MYSQL_PASSWORD = 'rnrals9795'
+MYSQL_PASSWORD = '*******'
 MYSQL_DATABASE = 'duxiu'
 MYSQL_PORT = 3306
 MYSQL_CHARSET = 'utf8'
